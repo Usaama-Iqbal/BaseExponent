@@ -1,0 +1,15 @@
+E:\Project\LeetCode\BaseExponent\BaseExponent\bin\Debug\net6.0\BaseExponent.exe
+E:\Project\LeetCode\BaseExponent\BaseExponent\bin\Debug\net6.0\BaseExponent.deps.json
+E:\Project\LeetCode\BaseExponent\BaseExponent\bin\Debug\net6.0\BaseExponent.runtimeconfig.json
+E:\Project\LeetCode\BaseExponent\BaseExponent\bin\Debug\net6.0\BaseExponent.dll
+E:\Project\LeetCode\BaseExponent\BaseExponent\bin\Debug\net6.0\BaseExponent.pdb
+E:\Project\LeetCode\BaseExponent\BaseExponent\obj\Debug\net6.0\BaseExponent.csproj.AssemblyReference.cache
+E:\Project\LeetCode\BaseExponent\BaseExponent\obj\Debug\net6.0\BaseExponent.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\LeetCode\BaseExponent\BaseExponent\obj\Debug\net6.0\BaseExponent.AssemblyInfoInputs.cache
+E:\Project\LeetCode\BaseExponent\BaseExponent\obj\Debug\net6.0\BaseExponent.AssemblyInfo.cs
+E:\Project\LeetCode\BaseExponent\BaseExponent\obj\Debug\net6.0\BaseExponent.csproj.CoreCompileInputs.cache
+E:\Project\LeetCode\BaseExponent\BaseExponent\obj\Debug\net6.0\BaseExponent.dll
+E:\Project\LeetCode\BaseExponent\BaseExponent\obj\Debug\net6.0\refint\BaseExponent.dll
+E:\Project\LeetCode\BaseExponent\BaseExponent\obj\Debug\net6.0\BaseExponent.pdb
+E:\Project\LeetCode\BaseExponent\BaseExponent\obj\Debug\net6.0\BaseExponent.genruntimeconfig.cache
+E:\Project\LeetCode\BaseExponent\BaseExponent\obj\Debug\net6.0\ref\BaseExponent.dll
